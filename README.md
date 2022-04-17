@@ -1,1 +1,2 @@
-Covered everything in NumPy with solve examples and explainations.
+Covered every topic in NumPy with solved examples and explainations.
+
